@@ -12,7 +12,7 @@ Fit a rectangle ([more details](https://stackoverflow.com/questions/42660184/ope
 
 ![Edged image](/img/edged_line.png "Fit a rectangle")
 
-![Table rectangle image](/img/edged_line.png "Table rectangle image")
+![Table rectangle image](/img/table_line.png "Table rectangle image")
 
 Project a 3d object onto the table
 
